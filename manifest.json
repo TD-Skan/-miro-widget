@@ -1,13 +1,10 @@
 {
     "extensions": [
       {
-        "type": "board_toolbar",
-        "toolbar_title": "Custom Widget",
-        "toolbar_icon": "https://img.icons8.com/ios-filled/50/000000/widget.png",
-        "library_title": "Custom Widget",
-        "card_icon": "https://img.icons8.com/ios-filled/50/000000/widget.png",
-        "url": "index.html",
-        "height": 400
+        "type": "board_sidebar",
+        "title": "Sticker Creator",
+        "iconUrl": "https://img.icons8.com/ios-filled/50/000000/sticky-notes.png",
+        "url": "index.html"
       }
     ]
   }
